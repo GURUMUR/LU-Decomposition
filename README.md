@@ -49,8 +49,9 @@ print(solution)
 ```
 
 ## Output:
-![output](<LU Decompostition.png>)
-![output2](<LU Decomposition(2).png>)
+![LU Decompostition](https://github.com/GURUMUR/LU-Decomposition/assets/144895197/8c4acfb6-51de-4bd9-966c-4dd503dc7af0)
+![LU Decomposition(2)](https://github.com/GURUMUR/LU-Decomposition/assets/144895197/b46726c2-0cf4-4b64-9a59-a869a4a3523c)
+
 
 
 ## Result:
